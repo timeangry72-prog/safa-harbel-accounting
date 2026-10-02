@@ -1,0 +1,19 @@
+الإضافات {
+ معرف. 'com.android.application'
+}
+
+الروبوت {
+ اسم الفضاء. 'com.safa.harbel.accounting'
+ تجميع SDK 35
+
+ الخلط الافتراضي { 
+ التطبيقId 'com.safa.harbel.accounting"
+ minSdk 23
+ الهدف SDK 35
+ نسخة كود 1
+ اسم النسخة "1.0"
+ } 
+}
+
+التبعيات. {
+}
